@@ -1,4 +1,6 @@
-*idea
-*/bin/Debug
-*/obj/Debug*
-*/packages/*
+.vs/*
+**/packages/*
+**/bin/*
+**/obj/*
+.idea/
+*.sln.DotSettings.user
